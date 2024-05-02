@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@hutechwebsite/necessitatibus-illum-corrupti-inventore",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/hutechwebsite/necessitatibus-illum-corrupti-inventore.git"
   },
   "dependencies": {
+    "coding-course-api": "^0.1.2",
+    "saoviet-caculator": "^0.1.2",
+    "saoviet-caculator-module": "^0.1.1"
   }
 }
